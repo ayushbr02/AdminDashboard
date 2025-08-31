@@ -3,13 +3,14 @@
 A modern, responsive **Admin Dashboard** built with **React**, **Vite**, **Syncfusion UI components**, and **TailwindCSS**.  
 The dashboard includes charts, calendars, tables, Kanban boards, and more—designed to help manage data and improve productivity.  
 
-🌐 **Live Demo:** [AdminDashboard by Ayush](https://admindashboardbyayush.vercel.app/)  
+🌐 **Live Demo:** [AdminDashboard](https://admindashboardbyayush.vercel.app/)  
 
 ---
 
 ## 📑 Table of Contents  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
+- [Quick Start](#quick-start)  
 - [Installation](#installation)  
 - [Available Scripts](#available-scripts)  
 - [Usage](#usage)  
@@ -42,9 +43,17 @@ The dashboard includes charts, calendars, tables, Kanban boards, and more—desi
 
 ---
 
-## 🚀 Installation  
+## ⚡ Quick Start  
 
-Clone the repository:  
+Get up and running in just 3 steps:  
+
 ```bash
+# 1. Clone the repository
 git clone https://github.com/ayushbr02/AdminDashboard.git
 cd AdminDashboard
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the development server
+npm run dev
