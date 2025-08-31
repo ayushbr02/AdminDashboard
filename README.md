@@ -1,8 +1,50 @@
-# React + Vite
+# Admin Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Admin Dashboard** built with **React**, **Vite**, **Syncfusion UI components**, and **TailwindCSS**.  
+The dashboard includes charts, calendars, tables, Kanban boards, and more—designed to help manage data and improve productivity.  
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [AdminDashboard by Ayush](https://admindashboardbyayush.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📑 Table of Contents  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Available Scripts](#available-scripts)  
+- [Usage](#usage)  
+- [Deployment](#deployment)  
+- [Contributing](#contributing)  
+- [License](#license)  
+
+---
+
+## ✨ Features  
+- 📊 **Interactive Charts** (line, bar, pie, and more)  
+- 📅 **Calendar & Scheduling** with drag-and-drop  
+- 🗂 **Kanban Board** for task management  
+- 📋 **Data Grid** with sorting, filtering, and pagination  
+- ✍️ **Rich Text Editor** for document editing  
+- 🎨 **Responsive Design** using TailwindCSS  
+- ⚡ **Fast Build & Hot Reload** with Vite  
+
+---
+
+## 🛠 Tech Stack  
+- **Frontend:** React 17, Vite  
+- **UI Components:** Syncfusion EJ2 React  
+- **Routing:** React Router v6  
+- **Styling:** TailwindCSS  
+- **Icons:** React Icons  
+- **HTTP Requests:** Axios  
+- **Linting:** ESLint (Airbnb style guide)  
+- **Deployment:** Vercel / GitHub Pages  
+
+---
+
+## 🚀 Installation  
+
+Clone the repository:  
+```bash
+git clone https://github.com/ayushbr02/AdminDashboard.git
+cd AdminDashboard
